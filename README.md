@@ -31,7 +31,7 @@ Aquí hay una lista de algunos de mis proyectos destacados:
 
 ## Contacto
 
-¡Me encantaría conectarme contigo! Puedes encontrarme en [LinkedIn](www.linkedin.com/in/tomas-rave-dev) y en mi[Portfolio](www.tomasravedev.com.ar).
+¡Me encantaría conectarme contigo! Puedes encontrarme en [LinkedIn](www.linkedin.com/in/tomas-rave-dev) y en mi [Portfolio](www.tomasravedev.com.ar).
 
 ## Contribuciones
 
